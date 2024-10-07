@@ -11,9 +11,6 @@ My name is Johnny, a master student in the Department of Electrical Engineering 
 My research focuses on computer vision and deep learning. 
 
 
-## ☠️ To Learn More about Me...
-* [My website](https://lyhsieh.github.io/)
-
 ## 📞 Contact Me
 * [Email](mailto:haoyeh@gapp.nthu.edu.tw)
 
